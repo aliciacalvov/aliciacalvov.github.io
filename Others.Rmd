@@ -2,11 +2,11 @@
 title: "Cajón desastre"
 ---
 
-<img align="centre" width="600" style="padding: 15px" src="./Madrid.tiff">
-<img align="centre" width="600" style="padding: 15px" src="./ParisSki.tiff">
-<img align="centre" width="600" style="padding: 15px" src="./Cascais.tiff">
-<img align="centre" width="600" style="padding: 15px" src="./Lisboa.tiff">
-<img align="centre" width="600" style="padding: 15px" src="./ParisPan.tiff">
-<img align="centre" width="600" style="padding: 15px" src="./ParisMet.tiff">
-<img align="centre" width="600" style="padding: 15px" src="./Roma.tiff">
-<img align="centre" width="600" style="padding: 15px" src="./25_De_Abril_2020.tiff">
+<img align="centre" width="600" style="padding: 15px" src="./Madrid.png">
+<img align="centre" width="600" style="padding: 15px" src="./ParisSki.png">
+<img align="centre" width="600" style="padding: 15px" src="./Cascais.png">
+<img align="centre" width="600" style="padding: 15px" src="./Lisboa.png">
+<img align="centre" width="600" style="padding: 15px" src="./ParisPan.png">
+<img align="centre" width="600" style="padding: 15px" src="./ParisMet.png">
+<img align="centre" width="600" style="padding: 15px" src="./Roma.png">
+<img align="centre" width="600" style="padding: 15px" src="./25_De_Abril_2020.png">
