@@ -1,0 +1,44 @@
+name: "calvo-website"
+output_dir: "."
+navbar:
+  title: "Alicia PCV"
+  left:
+    - text: "home"
+      icon: fa-home
+      href: index.html
+    #- text: "research"
+    #  href: research.html
+    - text: "publications"
+      href: publications.html
+    - text: "scientific illustration"
+      menu:
+      - text: "my PhD illustrated"
+        href: https://drive.google.com/file/d/15-Jn-u1_iA2uRaYXZxiA-hYWC6TBXTd1/view?usp=sharing
+      - text: "scientific illustration"
+        href: sciil.html
+      - text: "humour"
+        href: Humour.html
+      - text: "miscellaneous"
+        href: Others.html
+    - text: "science outreach"
+      href: outreach.html
+    - text: "CV"
+      menu:
+      - text: "short"
+        href: CV2021academ.pdf
+      - text: "academic + art"
+        href: https://drive.google.com/file/d/1ddAUyfG8rZ4yq4JkW2e7Q7A1BeCIkvSD/view?usp=sharing
+      - text: "portfolio"
+        href: https://drive.google.com/file/d/1APKvA-6Pt4spa6omhJhzlWzMFaZdAr1Y/view?usp=sharing
+  right:
+    - text: "get in touch!"
+      icon: fa-envelope
+      href: contact.html
+    #- text: "esta página em português"
+    #  href: index-pt.html
+output:
+  html_document:
+    theme: "paper"
+    css: ["https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+    style.css]

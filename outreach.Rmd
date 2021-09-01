@@ -1,0 +1,36 @@
+---
+title:  | 
+        Science outreach
+          <p style="font-size:14px">Science outreach, also called Education and Public Outreach (EPO or E/PO) or simply public outreach, is an umbrella term for a variety of activities by research institutes, universities, and institutions such as science museums, aimed at promoting public awareness (and understanding) of science and making informal contributions to science education. (Long live Wikipedia)</p> 
+        
+---
+<p style="font-size:20px">[Native Scientist](https://www.nativescientist.com/)</p>
+<img align="right" width="400" style="padding: 15px" src="./kid.jpeg">
+Native Scientist is a non-profit organisation that promotes science education, cultural diversity and cultural identity by organising science workshops for immigrant kids in their mother tongue. 
+
+I have worked with this beautiful organisation since 2017, first as a scientist organising workshops for Portuguese kids in Paris, and now as the Creative Editor of the organisation.
+
+My current work involves creating visual support for the workshops and doing illustrations for different science outreach efforts by the organisation.
+
+<hr>
+
+<p style="font-size:20px">[Viral, Palais de la Découverte, Paris](https://www.palais-decouverte.fr/fr/accueil/)</p>
+<img align="left" width="400" style="padding: 15px" src="./viral.jpg">
+I participated in the ["Viral" ](https://www.palais-decouverte.fr/fr/ressources/expositions-passees/viral/) exposition in Palais de la Découverte, in Paris, co-organised by [Ciência Viva](https://www.cienciaviva.pt/).
+
+I worked as a Portuguese guide in the exposition, explaining to visitors concepts such as infection, contagion or pathogenicity.
+
+<hr>
+
+<p style="font-size:20px">[iGEM](https://igem.org/Main_Page)</p>
+<img align="right" width="400" style="padding: 15px" src="./iGEM.jpg">
+iGEM is an international Synthetic Biology competition, organised by MIT, in Boston, USA. The competition has a strong focus on science communication and citizen science.
+
+I was a member of the [iGEM Paris Bettencourt 2016 team](http://2016.igem.org/Team:Paris_Bettencourt), working on the molecular biology aspects of the project, but also leading the social study of trying to understand the impact that our research could have in the Parisien community.
+
+<hr>
+
+<p style="font-size:20px">[NBCM](https://ae.fct.unl.pt/nbcm/)</p>
+<img align="left" width="250" style="padding: 15px" src="./nbcm.jpg">
+During my BSc. degree in Cell and Molecular Biology, I was a founding member, and in its second year president, of the Cell and Molecular Biology student group. The NBCM has, since its creation, done an amazing work in bringing biology to the general public, organising workshops and  talks for all publics. 
+

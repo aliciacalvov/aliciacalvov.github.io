@@ -1,0 +1,16 @@
+---
+title: "📫  Get in touch!"
+---
+
+If you want to chat about science or education, or if you are interested in me doing some commission illustration work for you, get in touch with me! 
+
+(Hablo Español. Falo Português. Je parle Français.)
+
+<p style="text-align: center; font-size: 46px">
+    <a href="mailto:aliciacalvovillamanan@gmail.com" class="fa fa-envelope"></a>
+    <a href="https://orcid.org/0000-0001-7033-2834" class="ai ai-orcid"></a>
+    <a href="https://scholar.google.com/citations?user=laU4nJkAAAAJ&hl=en" class="ai ai-google-scholar"></a>
+    <a href="https://twitter.com/AliciaPCV  " class="fa fa-twitter"></a>
+</p>
+
+

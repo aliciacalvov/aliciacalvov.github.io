@@ -1,0 +1,18 @@
+---
+title: "📚 Publications"
+---
+You can check my updated publication list [here](https://scholar.google.com/citations?user=laU4nJkAAAAJ&hl=en).
+You can read my Ph.D. thesis (May 2021) [here](http://www.theses.fr/s186843).
+
+## 2020
+
+Huseyin Tas, Adam Amara, Miguel E Cueva, Nadine Bongaerts, **Alicia Calvo‐Villamañán**, Samir Hamadache, Konstantinos Vavitsas. [Are synthetic biology standards applicable in everyday research practice?](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13612). In *Microbial biotechnology*.
+
+**Alicia Calvo-Villamañán#**, Jérome Wong Ng#, Rémi Planel, Hervé Ménager, Arthur Chen, Lun Cui#, David Bikard (# equal contribution).[On-target activity predictions enable improved CRISPR–dCas9 screens in bacteria](https://academic.oup.com/nar/article/48/11/e64/5827197?login=true). In *Nucleic Acids Research*.
+
+**Alicia Calvo-Villamañán**, Aude Bernheim, David Bikard.[Methods for the Analysis and Characterization of Defense Mechanisms Against Horizontal Gene Transfer: CRISPR Systems](https://link.springer.com/protocol/10.1007/978-1-4939-9877-7_17). In *Methods in Molecular Biology, Horizontal Gene Transfer*.
+
+## 2017
+Aude Bernheim, **Alicia Calvo-Villamañán**, Clovis Basier, Lun Cui, Eduardo PC Rocha, Marie Touchon, David Bikard. [Inhibition of NHEJ repair by type II-A CRISPR-Cas systems in bacteria](https://www.nature.com/articles/s41467-017-02350-1). In *Nature Communications*.
+
+
